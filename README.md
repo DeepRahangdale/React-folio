@@ -115,3 +115,4 @@ Feel free to contribute to this repo.
 <h1 align=center> 🧠 Happy Hacking 🧠 </h1>
 
 ![Protfolio Website](error.png)
+![Protfolio Website](error1.png)
